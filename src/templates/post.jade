@@ -1,0 +1,19 @@
+doctype html
+html(lang="en")
+	head
+		title #{post.title}
+	body
+		section.post
+			.container.text-right
+				a(href="").text-faded view all
+				.row
+					
+						h2.section-heading #{post.title}
+
+						hr.light
+
+						p.text-faded
+							| #{post.description}
+						.article
+							| #{post.description}
+

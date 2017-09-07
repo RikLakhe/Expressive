@@ -1,0 +1,17 @@
+{
+  "name": "expressbasic",
+  "version": "1.0.0",
+  "description": "basic express.js course 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lakhe",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.15.4"
+  },
+  "dependencies": {
+    "jade": "^1.11.0"
+  }
+}
